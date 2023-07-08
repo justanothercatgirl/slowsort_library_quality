@@ -7,4 +7,4 @@ testing.cpp is to measure effectivness
 against standard library algorithms
 
 This project is definitely very useful 
-for our modern society for a number of reasons
+to our modern society for a number of reasons
